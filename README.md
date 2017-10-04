@@ -1,11 +1,11 @@
 # visual-question-generation
 
-##some preprocessing scripts
+Tring to reproduce the work from https://arxiv.org/pdf/1603.06059.pdf and some preprocessing scripts
 
-the main.py borrow most from 
 
-Two types of data is required: 
- -
+
+
+
 
 
 
